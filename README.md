@@ -12,3 +12,5 @@
 3. Scan QR
 
 4. Test send massage from another account
+
+5. This is basic, you can adjust it according to your needs. For example, it can be integrated with Telegram, or others.
